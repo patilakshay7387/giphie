@@ -6,7 +6,10 @@ this is akshay
 
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was generd with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+
+
+
 
 ## Development server
 
